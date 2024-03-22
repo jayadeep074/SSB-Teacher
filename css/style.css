@@ -49,7 +49,7 @@ nav{
     filter: brightness(50%);
   }
 
-    .carousel-caption{
+  .home .carousel-caption{
     color: gray;
   }
 
