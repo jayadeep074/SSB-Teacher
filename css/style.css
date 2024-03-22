@@ -49,6 +49,10 @@ nav{
     filter: brightness(50%);
   }
 
+    .carousel-caption{
+    color: gray;
+  }
+
   .innovation .row{
     display: flex;
     align-items: center;
