@@ -47,6 +47,7 @@ nav{
 
   .home .carousel-item img{
     filter: brightness(50%);
+    object-fit: cover;
   }
 
   .home .carousel-caption{
